@@ -1,0 +1,21 @@
+Guitar Pro 7.0.1 Release for Windows
+ 
+1.安装guitar-pro-7-setup.exe
+2.安装guitarpro7-soundbanks-full.exe
+注意此时不要运行程序
+
+3.以管理员身份运行"gp7_hosts_patch.cmd"
+尤其是win7，win10的用户，注意是管理员的身份 
+目的是防止Guita pro 网站通过homecalling 的方式强制注册
+（动手能力强的朋友也可以通过手动的方式修改C:\Windows \System32\Drivers\Etc\hosts 文件，在hosts文件里
+加入一行 127.0.0.1 activation.guitar-pro.com  保存就可以了。）
+
+
+4.不要升级程序
+
+如果您不小心连接了guitar pro 网站，或者被要求注册，只需要重新安装一次 guitar-pro-7-setup.exe就可以了。
+
+
+
+
+TEAM R2R 2017
